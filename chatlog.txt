@@ -1,0 +1,31 @@
+Guest2 has connected
+Guest1: hello
+
+Guest2: hello friend
+
+Guest2 has connected
+Guest1 has disconnected
+Guest2 has connected
+Guest2: hello friend
+
+Guest1: hello :3
+
+Guest1 has disconnected
+Guest2 has connected
+Guest3 has connected
+Guest3 has connected
+Guest1 has disconnected
+Guest1 has disconnected
+Guest2 has connected
+Guest3 has connected
+Guest3 has connected
+Guest1 has disconnected
+Guest1 has disconnected
+Guest2 has connected
+Guest2 has connected
+Guest3 has connected
+Guest3 has connected
+Guest1 has disconnected
+Guest1 has disconnected
+Guest2: hello world
+
